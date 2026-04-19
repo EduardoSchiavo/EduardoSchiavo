@@ -5,10 +5,10 @@
  I enjoy getting my hands dirty on the frontend when the need arises, and I'm always happy to
  learn new things.
 
- - 🔭 I'm currently working on the backend for [Quick
+ - 🔭 I'm currently working on an asset manager for [Quick
  Tabletop](https://github.com/EduardoSchiavo/quick-tabletop), a tool for managing tabletop
  RPGs.
- - 🌱 I'm currently learning Go and constantly deepening my knowledge of distributed systems
+ - 🌱 I'm constantly trying to deepen my knowledge of distributed systems
  and high-throughput architectures.
  - 📫 How to reach me: eduardoschiavo09@gmail.com
 
